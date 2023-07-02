@@ -162,7 +162,7 @@ class GoogleDriveHelper:
         # File body description
         file_metadata = {
             'name': file_name,
-            'description': 'Uploaded by @Ani_Animesh~|~AnimeSakura.co',
+            'description': 'Uploaded by @Ani_Animesh | AnimeSakura.co',
             'mimeType': mime_type,
         }
         if parent_id is not None:
